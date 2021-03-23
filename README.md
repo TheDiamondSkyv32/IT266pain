@@ -171,11 +171,13 @@
 
 	Upon the death of any of these listed creatures, they will drop one of these items.  
 			
-4.  A Class system with 3 playable classes with different skill trees.
-		We not there yet.
+4.  A Class system with 3 playable classes with different skill trees:
+
+		- We not there yet.
 		
-5.  4 Unique skills per class with at least 2 active.  
-		We still not there yet.  
+5.  4 Unique skills per class with at least 2 active. 
+
+		- We still not there yet.  
 		
 Common Deliverables:
 
